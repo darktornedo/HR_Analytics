@@ -107,7 +107,7 @@ YearsWithCurrManager : Number of years with the current manager
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
 ### 3. Data Analysis & Findings
-[question](HR_Analytics_questions.txt)
+[Questions](HR_Analytics_questions.txt)
 
 ## Conclusion
 
@@ -127,3 +127,9 @@ This project demonstrates how structured SQL queries can uncover hidden patterns
 
   6. Employees with Low work life balance and High Distance from home are leaving Console those employees and Provide them Transport Services
   7. Employees with Higher Education Level has Low Level jobes are likely to Leave Implement a development and promotion pathway aligned with education level and skill to retain top talent, and ensure roles utilize employees’ full potential.
+
+## Tools Used
+
+  1. **MySQL :** Data querying & analysis
+  2. **Kaggle Dataset :** [Dataset Link](https://www.kaggle.com/datasets/anshika2301/hr-analytics-dataset?select=HR_Analytics.csv)
+
