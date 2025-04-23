@@ -107,6 +107,7 @@ YearsWithCurrManager : Number of years with the current manager
 - **Null Value Check**: Check for any null values in the dataset and delete records with missing data.
 
 ### 3. Data Analysis & Findings
+[question](HR_Analytics_questions.txt)
 
 ## Conclusion
 
