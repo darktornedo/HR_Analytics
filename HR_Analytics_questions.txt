@@ -1,0 +1,31 @@
+Basic Level Queries 
+1. write a query to find how many employees are male vs. female
+2. write a query to find what is the average age and monthly income of employees
+3. write a query to find how many employees are there in each department
+4. write a query to find what are the most common job roles
+5. write a query to find what is the most common education field
+6. write a query to find how many employees are married vs. single vs. divorced
+
+Intermediate Level Queries 
+1. write a query to find what is the overall attrition rate
+2. write a query to find what is the attrition rate by gender
+3. write a query to find what is the attrition rate in each department
+4. write a query to find What is the average monthly income by job role
+5. write a query to find What is the average years at company by department
+6. write a query to find What is the average job satisfaction by department or job role
+7. Do employees with low performance ratings have higher attrition?
+8. What’s the distribution of overtime work by job role
+9. How many employees have not been promoted in the last 3+ years
+10.Do employees with High distance from home have higher attrition?
+11.Are employees with fewer years at the company more likely to leave
+12.Do employees with low environment satisfaction have higher attrition?
+
+Advance Level Queries 
+1. Do employees with low job satisfaction have a higher attrition rate?
+2. What’s the average years at company of employees who left vs. stayed?
+3. write a query to find attrition rate by Education and Job level
+4. Are younger employees more likely to leave?
+5. write a query to find is Work-Life Balance linked to Attrition?
+6. Who are the top "at-risk" employees based on low satisfaction, low income, high overtime, and no promotion?
+7. Which combination of factors (e.g., job role, overtime, income, satisfaction) is most associated with attrition?
+8. What patterns exist among high performers who left the company
